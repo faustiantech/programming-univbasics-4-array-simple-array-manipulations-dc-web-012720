@@ -1,2 +1,3 @@
-def using_push(arr,string)
+def using_push
+  
 end
